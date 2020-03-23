@@ -171,6 +171,10 @@
 	</types>
 	<types>
 		<members>*</members>
+		<name>ReportType</name>
+	</types>
+	<types>
+		<members>*</members>
 		<name>SharingRules</name>
 	</types>
 	<types>
